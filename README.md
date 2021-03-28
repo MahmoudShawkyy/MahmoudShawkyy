@@ -23,10 +23,7 @@ Currently I focus on CP and Computer Science Basic Knowledge, Doing some Project
 
 [<img align="left" alt="Shawky | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:a.mahmoudshawky2250@gmail.com)
 [<img align="left" alt="Shawky | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](www.linkedin.com/in/MahmoudShawkyy)
-<a href="https://web.facebook.com/profile.php?id=100003364435613&_rdc=1&_rdr>
-  <img align="left" alt="Shawky's Facebook| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-[<img align="left" alt="Shawky | Twitter" width="30px" src="https://abs.twimg.com/favicons/twitter.ico" />](https://twitter.com/MahmoudShawky__)
+
 
 
 
