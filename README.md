@@ -2,20 +2,31 @@
 
 I am Mahmoud Shawky, An Engineering Student at CSED at Mansoura University , I am intersted in Competitive Programming, Data Science and Open Source Projects .
 
-In addition to coding, I like watching movies and series, watching soccer games and Playing video games
+In addition to coding, I like watching movies and series, watching soccer matches and Playing video games
 
 That's pretty much all there is to it 😃.
 
 
 ## Languages And Tools
 
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">]()
+[<img align="left" alt="C" width="32px" src="https://pngimg.com/uploads/letter_c/letter_c_PNG22.png" />]()
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">]()
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">]()
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">]()
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">]()
+[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">]()
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">]()
 [<img align="left" alt="arduino" width="26px" src="https://www.redbytes.in/wp-content/uploads/2018/04/arduino-1-logo-png-transparent.png" />]()
+
+Currently I focus on CP and Computer Science Basic Knowledge, Doing some Projects and enthusiastic to learn more
+
+## Contact With Me
+
+[<img align="left" alt="Shawky | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:a.mahmoudshawky2250@gmail.com)
+[<img align="left" alt="Shawky | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](www.linkedin.com/in/MahmoudShawkyy)
+<a href="https://web.facebook.com/profile.php?id=100003364435613&_rdc=1&_rdr>
+  <img align="left" alt="Shawky's Facebook| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+[<img align="left" alt="Shawky | Twitter" width="30px" src="https://abs.twimg.com/favicons/twitter.ico" />](https://twitter.com/MahmoudShawky__)
 
 
 
