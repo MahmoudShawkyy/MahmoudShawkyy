@@ -2,7 +2,7 @@
 
 I am Mahmoud Shawky, An Engineering Student at CSED at Mansoura University , I am intersted in Competitive Programming, Data Science and Open Source Projects .
 
-In addition to coding, I like watching movies and series, watching soccer matches and Playing video games
+In addition to coding, I like Playing Chess, watching movies and series and watching soccer matches
 
 That's pretty much all there is to it 😃.
 
