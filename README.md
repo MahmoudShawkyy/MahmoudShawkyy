@@ -19,7 +19,5 @@ Currently I focus on CP and Computer Science Basic Knowledge, Doing some Project
 
 ## Contact With Me
 
-[<img align="left" alt="MahmoudShawkyy| email" width="22px" src="Images/gmail.png" />](mailto:a.mahmoudshawky2250@gmail.com)
-[<img align="left" alt="MahmoudShawkyy | Linkedin" width="22px" src="Images/linkedin.png" />](https://www.linkedin.com/in/MahmoudShawkyy/)
-[<img align="left" alt="MahmoudShawkyy | Twitter" width="22px" src="Images/twitter.png"/>](https://twitter.com/MahmoudShawkyy_)
-[<img align="left" alt="MahmoudShawkyy | Facebook" width="22px" src="Images/facebook.png" />](https://www.facebook.com/profile.php?id=100003364435613)
+[<img align="left" alt="Shawky | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:mahmoudshawky2250@gmail.com)
+[<img align="left" alt="Shawky | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/MahmoudShawkyy/)
