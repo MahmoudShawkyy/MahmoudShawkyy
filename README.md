@@ -1,8 +1,6 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am Mahmoud Shawky, An Engineering Student at CSED at Mansoura University , I am intersted in Competitive Programming, Data Science and Open Source Projects .
-
-In addition to coding, I like Playing Chess, watching movies and series and watching soccer matches
+I am Mahmoud Shawky, An Engineering Student (CSED lvl 100) at Mansoura University , I am intersted in Competitive Programming, Data Science and Open Source Projects .
 
 That's pretty much all there is to it 😃.
 
@@ -21,9 +19,7 @@ Currently I focus on CP and Computer Science Basic Knowledge, Doing some Project
 
 ## Contact With Me
 
-[<img align="left" alt="Shawky | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:a.mahmoudshawky2250@gmail.com)
-[<img align="left" alt="Shawky | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](www.linkedin.com/in/MahmoudShawkyy)
-
-
-
-
+[<img align="left" alt="MahmoudShawkyy| email" width="22px" src="Images/gmail.png" />](mailto:a.mahmoudshawky2250@gmail.com)
+[<img align="left" alt="MahmoudShawkyy | Linkedin" width="22px" src="Images/linkedin.png" />](https://www.linkedin.com/in/MahmoudShawkyy/)
+[<img align="left" alt="MahmoudShawkyy | Twitter" width="22px" src="Images/twitter.png"/>](https://twitter.com/MahmoudShawkyy_)
+[<img align="left" alt="MahmoudShawkyy | Facebook" width="22px" src="Images/facebook.png" />](https://www.facebook.com/profile.php?id=100003364435613)
