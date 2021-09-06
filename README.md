@@ -23,6 +23,7 @@ Currently I focus on CP and Computer Science Basic Knowledge, Doing some Project
 [<img align="left" alt="Shawky | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/MahmoudShawkyy/)
 
 
-## My GitHup Stats
+## [My GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudShawkyy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudShawkyy&langs_count=6&layout=compact&theme=dracula)](https://github.com/MahmoudShawkyy?tab=repositories)
+
