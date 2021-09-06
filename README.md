@@ -21,3 +21,4 @@ Currently I focus on CP and Computer Science Basic Knowledge, Doing some Project
 
 [<img align="left" alt="Shawky | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:mahmoudshawky2250@gmail.com)
 [<img align="left" alt="Shawky | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/MahmoudShawkyy/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudShawkyy)](https://github.com/anuraghazra/github-readme-stats)
