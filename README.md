@@ -10,7 +10,7 @@ That's pretty much all there is to it 😃.
 [<img align="left" alt="C" width="32px" src="https://pngimg.com/uploads/letter_c/letter_c_PNG22.png" />]()
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">]()
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">]()
-[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter_notebook/csharp.png">]()
+[<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Jupyter/csharp.png">]()
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">]()
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">]()
 [<img align="left" alt="arduino" width="26px" src="https://www.redbytes.in/wp-content/uploads/2018/04/arduino-1-logo-png-transparent.png" />]()
