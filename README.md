@@ -1,8 +1,8 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am Mahmoud Shawky, An Engineering Student (CSED lvl 200) at Mansoura University , I am intersted in Competitive Programming, Data Science and Open Source Projects .
-Currently I focus on CP and Computer Science Basic Knowledge, Doing some Projects and enthusiastic to learn more.
-That's pretty much all there is to it 😃.
+I am Mahmoud Shawky, A Computer Engineering Student (CSED lvl 300) at Mansoura University, I am Interested in Data Engineering, Competitive Programming, and Open Source Projects.
+Nowadays, I focus on Computer Science Basic Knowledge and enthusiastic to learn more .
+That's pretty much all there is to it . 😃.
 
 
 ## Languages And Tools
