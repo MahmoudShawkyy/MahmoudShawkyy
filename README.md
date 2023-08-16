@@ -12,7 +12,6 @@ That's pretty much all there is to it . 😃.
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">]()
 [<img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">](https://jupyter.org/)
 [<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">]()
-[<img align="left" alt="arduino" width="26px" src="https://www.redbytes.in/wp-content/uploads/2018/04/arduino-1-logo-png-transparent.png" />]()
 
 .
 
