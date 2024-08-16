@@ -18,8 +18,9 @@ That's pretty much all there is to it 😃.
 ## Contact With Me
 
 [<img align="left" alt="Shawky | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:mahmoudshawky2250@gmail.com)
-[<img align="left" alt="Shawky | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/MahmoudShawkyy/)
+
 .
+
 
 ## My GitHub Stats
 
