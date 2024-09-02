@@ -1,6 +1,6 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am Mahmoud Shawky, A Fresh Computer Engineering graduate with a passion for the data field, focusing on Big Data, Business Intelligence, and Data Engineering. Skilled in SQL and experienced in designing and developing databases. Proficient in Programming and Data Visualization tools.
+I am Mahmoud Shawky, A Computer Engineering graduate with a passion for the data field, focusing on Big Data, Business Intelligence, Data Engineering, and Analytics. Skilled in Microsoft SQL Server (including Integration, Analytics, and Reporting Services), with strong expertise in SQL, Power BI, and Python.
 That's pretty much all there is to it 😃.
 
 
