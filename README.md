@@ -2,7 +2,7 @@
 
 I am Mahmoud Shawky, Data Analytics Engineer skilled in designing data management systems, executing data processing,
 performing data analysis, working with Big Data technologies. and data visualization tools, with hands-on
-experience in database design, data ingestion, and analytics 😃.
+experience in database design, data ingestion, and analytics .
 
 
 ## Languages And Tools
