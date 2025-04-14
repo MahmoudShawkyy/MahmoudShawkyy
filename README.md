@@ -1,8 +1,7 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am Mahmoud Shawky, Data Analytics Engineer skilled in designing data management systems, executing data processing,
-performing data analysis, working with Big Data technologies. and data visualization tools, with hands-on
-experience in database design, data ingestion, and analytics .
+Data Engineer with hands-on experience in building scalable data pipelines, real-time processing systems, and data analytics solutions. 
+Proficient in Big Data technologies, cloud platforms, and databases. Skilled in delivering high-quality data solutions through efficient pipeline design, insightful reporting, and robust data integration techniques.  .
 
 
 ## Languages And Tools
