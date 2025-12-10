@@ -21,8 +21,3 @@ Proficient in Big Data technologies, cloud platforms, and databases. Skilled in 
 
 .
 
-
-## My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudShawkyy&langs_count=6&layout=compact&theme=dracula)](https://github.com/MahmoudShawkyy?tab=repositories)
-
